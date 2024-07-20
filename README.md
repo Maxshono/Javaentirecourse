@@ -1,2 +1,2 @@
-# Javaentirecourse
-Entire java
+# Basicjava
+This is for basic java
